@@ -24,6 +24,6 @@ Or Also GDG-Security is one of github organization try to create open source bas
 
 <p align="center">
 	<a href="https://twitter.com/GDGSNF1">
-  <code><img src="https://img.shields.io/badge/THyasser1%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/GDGSNF1%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></code>
   </a>
 </p>
