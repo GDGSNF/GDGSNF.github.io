@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/GDGSNF/GDGSNF.github.io/blob/master/images/header/Readme logo.png"/>
+  <img src="https://github.com/GDGSNF/GDGSNF.github.io/blob/master/images/header/Readme logo.jpeg"/>
 </p>
 
 
