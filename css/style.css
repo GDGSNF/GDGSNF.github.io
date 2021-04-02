@@ -1,39 +1,3 @@
-/*-------------------------------------
-    
-	Author: Webstrot 
-	Copyright Â© 2018
-	
----------------------------------------
-[Table of contents]
- 
-1. Body
-2. Custom css / a
-3. Preloader/ #preloader
-4. Header / .lv_header_wrapper
-5. Button / .lv_btn
-6. Timer / .lv_timer_wrapper
-7. Heading / .lv_heading_center
-8. About / .lv_about_wrapper
-9. Event Gallery / .lv_event_glry_wrapper
-10. Event Schedule / .lv_event_schedule_wrapper
-11. Speakers / .lv_speakers_wrapper
-12. FAQ /.lv_faq_wrapper
-13. Video css Start / .lv_video_wrapper
-14. Pricing css Start / .lv_pricing_wrapper
-15. Testimonial css Start / .lv_testimonial_wrapper
-16. Sponsors css Start / .lv_sponsors_wrapper
-17. Newsletter css Start / .lv_newsletter_wrapper
-18. Latest News css Start / .lv_ltnews_wrapper
-19. Tweet Feed css Start  / .lv_twtfd_wrapper
-20. Fliker Gallery css Start / .lv_flickr_wrapper
-21. Map css Start / .lv_map_wrapper
-22. Register Form css Start / .lv_register_wrapper
-23. Footer css Start / .lv_footer_wrapper
-24. Responsive / .lv_contact_form
-*/
-
-/*--------- Body Strat -------*/
-
 body,
 html {
     font-family: 'Lato', sans-serif;

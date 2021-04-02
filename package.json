@@ -1,0 +1,25 @@
+{
+  "name": "gdg-security",
+  "version": "2.0.0",
+  "description": "Create Magic with 0's & 1's",
+  "main": "js/custom.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDGSNF/GDGSNF.github.io.git"
+  },
+  "keywords": [
+    "Website",
+    "JavaScript",
+    "Bootstrap",
+    "JQuery"
+  ],
+  "author": "Yasser Tahiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GDGSNF/GDGSNF.github.io/issues"
+  },
+  "homepage": "https://github.com/GDGSNF/GDGSNF.github.io#readme"
+}
